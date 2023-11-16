@@ -1,0 +1,12 @@
+C:\Arduino\Works\VB\led_vb\led_vb\bin\Debug\led_vb.exe.config
+C:\Arduino\Works\VB\led_vb\led_vb\bin\Debug\led_vb.exe
+C:\Arduino\Works\VB\led_vb\led_vb\bin\Debug\led_vb.pdb
+C:\Arduino\Works\VB\led_vb\led_vb\bin\Debug\led_vb.xml
+C:\Arduino\Works\VB\led_vb\led_vb\obj\Debug\led_vb.vbproj.AssemblyReference.cache
+C:\Arduino\Works\VB\led_vb\led_vb\obj\Debug\led_vb.Form1.resources
+C:\Arduino\Works\VB\led_vb\led_vb\obj\Debug\led_vb.Resources.resources
+C:\Arduino\Works\VB\led_vb\led_vb\obj\Debug\led_vb.vbproj.GenerateResource.cache
+C:\Arduino\Works\VB\led_vb\led_vb\obj\Debug\led_vb.vbproj.CoreCompileInputs.cache
+C:\Arduino\Works\VB\led_vb\led_vb\obj\Debug\led_vb.exe
+C:\Arduino\Works\VB\led_vb\led_vb\obj\Debug\led_vb.xml
+C:\Arduino\Works\VB\led_vb\led_vb\obj\Debug\led_vb.pdb
