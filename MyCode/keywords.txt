@@ -1,0 +1,5 @@
+MyLib	KEYWORD1
+
+getRandomNumber	KEYWORD2
+begin	KEYWORD2
+
